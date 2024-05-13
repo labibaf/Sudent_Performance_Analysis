@@ -11,15 +11,22 @@ Proyek ini akan fokus pada analisis data siswa untuk mengidentifikasi faktor-fak
 
 ### Persiapan
 
-Sumber data: ....
+Sumber data: [Lihat Dataset 🗿](https://raw.githubusercontent.com/labibaf/Sudent_Performance_Analysis/main/dataset/data.csv)
 
 Setup environment:
+- Install library yang dipakai
 ```
-
+pip install -r requirements.txt
+```
+- Buka app.py untuk melakukan prediksi
+```
+streamlit run app.py
 ```
 
 ## Business Dashboard
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Business dashboard telah dibuat untuk memonitor faktor-faktor yang mempengaruhi dropout siswa. Dashboard dapat diakses [disini](https://public.tableau.com/app/profile/labib.fadhali/viz/JayaJayaInstitiutePerformanceDashboard/Dashboard1?publish=yes)
+
+![MyDashboard](dashboard.png)
 
 ## Menjalankan Sistem Machine Learning
 Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.

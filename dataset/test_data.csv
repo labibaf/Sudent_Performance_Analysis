@@ -1,0 +1,795 @@
+Application_mode,Debtor,Tuition_fees_up_to_date,Gender,Scholarship_holder,Age_at_enrollment,Curricular_units_1st_sem_approved,Curricular_units_1st_sem_grade,Curricular_units_2nd_sem_approved,Curricular_units_2nd_sem_grade
+3rd phase - general contingent,no,yes,female,no,18,1,12.0,2,11.0
+1st phase - general contingent,no,yes,female,no,18,6,11.666666666666666,6,13.5
+3rd phase - general contingent,no,yes,female,no,20,7,11.4375,8,11.425
+1st phase - general contingent,yes,yes,female,yes,18,5,11.6,4,11.0
+1st phase - general contingent,no,yes,female,no,18,5,12.666666666666666,4,13.0
+2nd phase - general contingent,no,yes,male,no,19,6,12.933333333333332,6,13.716666666666669
+Technological specialization diploma holders,no,yes,male,no,21,5,11.857142857142858,5,10.571428571428571
+1st phase - general contingent,no,no,male,no,18,3,11.333333333333334,2,13.5
+2nd phase - general contingent,no,yes,female,no,24,2,11.5,3,14.333333333333334
+1st phase - general contingent,no,yes,female,yes,19,6,11.833333333333334,6,11.833333333333334
+1st phase - general contingent,no,yes,female,yes,20,4,14.0,3,11.0
+1st phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,male,yes,19,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,male,no,19,5,11.4,1,10.0
+Change of course,no,yes,male,no,24,0,0.0,0,0.0
+Over 23 years old,no,yes,male,no,26,6,12.0,5,10.8
+2nd phase - general contingent,no,yes,male,no,18,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,male,no,18,5,12.0,3,11.333333333333334
+1st phase - general contingent,no,yes,male,no,23,4,14.0,5,13.8
+Change of course,yes,yes,male,no,18,2,10.0,0,0.0
+International student (bachelor),no,yes,male,no,19,5,14.0,3,13.25
+1st phase - general contingent,no,yes,female,no,19,5,14.2,5,13.8
+2nd phase - general contingent,no,yes,female,no,20,6,11.666666666666666,3,13.0
+2nd phase - general contingent,no,yes,female,yes,18,3,13.0,3,11.0
+Change of course,no,yes,female,no,20,6,11.616666666666667,7,13.0
+2nd phase - general contingent,no,yes,female,yes,20,2,10.0,4,10.75
+2nd phase - general contingent,no,yes,female,no,20,3,10.333333333333334,3,10.666666666666666
+1st phase - general contingent,no,yes,female,yes,18,5,12.8,5,13.4
+1st phase - general contingent,no,yes,female,yes,20,5,13.188,7,12.892857142857142
+Change of institution/course,yes,no,female,no,22,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,18,3,12.333333333333334,5,10.833333333333334
+Over 23 years old,yes,yes,female,no,47,0,0.0,0,0.0
+Over 23 years old,no,yes,female,no,28,4,11.25,4,10.5
+1st phase - general contingent,no,yes,female,yes,18,3,11.666666666666666,4,13.5
+Technological specialization diploma holders,no,yes,female,yes,26,6,12.666666666666666,6,13.166666666666666
+Change of course,yes,no,female,no,21,8,11.5,4,10.0
+1st phase - general contingent,no,yes,female,no,23,2,10.0,1,10.0
+Over 23 years old,no,yes,female,no,35,3,11.816666666666668,3,11.333333333333334
+Over 23 years old,no,yes,female,no,25,6,12.125,8,13.3125
+1st phase - general contingent,no,yes,female,no,19,6,12.471428571428572,7,11.4625
+1st phase - special contingent (Madeira Island),no,yes,female,no,24,11,12.909090909090908,9,13.555555555555555
+1st phase - general contingent,no,yes,female,no,19,5,12.4,5,12.4
+1st phase - general contingent,no,yes,female,no,18,1,11.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,18,6,11.833333333333334,6,12.5
+1st phase - general contingent,no,yes,female,yes,18,7,13.79714285714286,8,13.775
+2nd phase - general contingent,no,yes,female,no,18,6,12.5,6,12.333333333333334
+Technological specialization diploma holders,no,yes,female,no,24,6,11.428571428571429,5,13.0
+1st phase - general contingent,no,yes,female,no,19,4,11.0,4,11.0
+2nd phase - general contingent,no,yes,female,no,20,6,11.757142857142856,6,13.083333333333334
+1st phase - special contingent (Azores Island),no,yes,female,no,19,3,10.333333333333334,3,13.0
+1st phase - general contingent,no,yes,female,no,18,5,12.6,5,11.4
+1st phase - general contingent,no,yes,female,no,18,5,14.0,5,11.6
+1st phase - general contingent,no,yes,female,no,18,5,12.0,6,12.666666666666666
+1st phase - general contingent,no,yes,female,no,19,4,12.0,3,12.0
+Transfer,no,yes,female,no,26,4,13.0,2,12.0
+Change of course,no,yes,female,no,36,13,10.692307692307692,9,12.307692307692308
+1st phase - general contingent,no,yes,female,no,20,5,12.0,4,11.25
+Over 23 years old,yes,yes,female,yes,30,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,20,3,10.333333333333334,4,11.0
+1st phase - general contingent,no,yes,female,no,19,5,13.98,5,13.98
+2nd phase - general contingent,no,yes,female,no,19,1,11.0,5,11.2
+Over 23 years old,no,yes,female,yes,31,4,11.25,4,10.833333333333334
+Change of institution/course,yes,yes,female,no,42,10,11.9,10,12.8
+2nd phase - general contingent,no,no,female,yes,18,7,12.285714285714286,6,13.333333333333334
+Technological specialization diploma holders,no,yes,female,no,21,5,12.666666666666666,2,13.5
+Change of course,no,yes,female,no,20,6,13.25,8,13.75
+1st phase - general contingent,no,yes,female,no,19,3,10.333333333333334,3,10.333333333333334
+2nd phase - general contingent,no,yes,female,no,22,5,13.166666666666666,5,12.4
+Technological specialization diploma holders,no,yes,female,no,21,4,12.75,1,11.0
+Over 23 years old,no,yes,female,no,26,5,11.2,5,12.14
+2nd phase - general contingent,no,yes,female,yes,18,5,11.6,4,11.2
+2nd phase - general contingent,no,yes,female,no,20,3,10.333333333333334,3,10.333333333333334
+1st phase - general contingent,no,yes,female,no,19,4,12.25,3,11.0
+1st phase - general contingent,no,yes,female,no,19,6,12.0,4,12.75
+2nd phase - general contingent,no,yes,female,no,20,3,11.333333333333334,2,10.666666666666666
+2nd phase - general contingent,no,yes,female,yes,20,4,11.25,6,10.5
+Change of course,no,yes,female,no,18,0,0.0,1,16.0
+Change of course,yes,yes,female,no,18,1,12.0,3,12.0
+1st phase - general contingent,no,yes,female,yes,20,5,12.8,5,12.8
+1st phase - general contingent,no,yes,female,no,19,5,11.8,4,11.25
+2nd phase - general contingent,no,yes,female,no,20,5,10.6,4,10.4
+1st phase - general contingent,no,yes,female,no,20,5,14.333333333333334,8,12.625
+2nd phase - general contingent,no,yes,female,yes,21,5,13.2,5,11.8
+Technological specialization diploma holders,no,yes,female,no,20,6,12.666666666666666,2,13.0
+1st phase - general contingent,yes,yes,female,no,22,5,13.333333333333334,4,11.4
+1st phase - general contingent,no,yes,female,no,18,6,10.666666666666666,6,12.833333333333334
+2nd phase - general contingent,no,yes,female,no,20,3,11.333333333333334,5,12.6
+1st phase - general contingent,no,no,female,no,18,5,12.2,4,10.833333333333334
+Over 23 years old,no,yes,female,no,27,4,14.0,3,12.525
+Over 23 years old,no,yes,female,no,26,7,14.75,5,13.8
+1st phase - general contingent,no,yes,female,no,18,4,10.75,0,0.0
+Over 23 years old,no,yes,male,no,24,1,12.0,3,10.5
+2nd phase - general contingent,no,yes,male,yes,19,3,11.666666666666666,3,11.666666666666666
+1st phase - general contingent,no,yes,male,no,20,5,10.0,2,12.0
+2nd phase - general contingent,no,yes,male,yes,18,5,13.2,5,12.6
+1st phase - general contingent,no,yes,male,no,20,4,10.2,3,11.0
+Over 23 years old,no,yes,male,no,25,5,14.2,2,13.5
+1st phase - general contingent,yes,yes,male,no,22,6,12.625,2,14.5
+1st phase - general contingent,no,yes,male,no,18,6,13.496666666666668,6,13.496666666666668
+2nd phase - general contingent,no,yes,male,no,20,3,11.0,3,12.0
+Technological specialization diploma holders,yes,yes,male,no,23,3,11.5,3,10.666666666666666
+1st phase - general contingent,no,yes,male,no,20,2,11.0,3,12.666666666666666
+1st phase - general contingent,no,yes,male,no,20,3,12.4,5,10.833333333333334
+Over 23 years old,no,yes,female,yes,28,5,10.6,5,10.2
+2nd phase - general contingent,no,yes,female,no,19,6,14.833333333333334,6,13.285714285714286
+1st phase - general contingent,no,yes,female,no,19,4,12.45,5,11.7
+2nd phase - general contingent,no,yes,female,no,20,5,13.4,4,13.0
+2nd phase - general contingent,yes,yes,female,no,20,6,13.333333333333334,5,14.0
+Change of course,no,yes,female,yes,18,5,11.98,5,11.98
+2nd phase - general contingent,no,yes,female,no,20,4,11.0,5,13.2
+Technological specialization diploma holders,no,yes,female,no,19,5,12.666666666666666,4,11.75
+1st phase - general contingent,no,yes,female,no,19,5,12.2,4,13.0
+Over 23 years old,no,yes,female,no,27,3,10.666666666666666,4,11.4
+1st phase - general contingent,no,yes,female,no,18,3,11.666666666666666,2,11.0
+1st phase - general contingent,no,yes,female,no,18,2,10.5,3,12.333333333333334
+1st phase - general contingent,no,yes,female,no,18,8,14.26875,8,14.26875
+1st phase - general contingent,no,yes,female,yes,19,2,10.5,3,13.333333333333334
+1st phase - general contingent,no,yes,female,no,21,5,11.2,1,10.0
+Short cycle diploma holders,no,no,female,no,23,9,13.666666666666666,6,13.5
+1st phase - general contingent,yes,yes,female,yes,19,5,11.4,3,10.0
+1st phase - general contingent,yes,yes,female,no,18,5,10.6,2,10.0
+1st phase - general contingent,no,yes,female,no,19,5,11.8,6,11.708333333333334
+1st phase - general contingent,no,yes,female,no,18,5,11.833333333333334,4,12.0
+1st phase - general contingent,no,yes,male,no,21,6,12.571428571428571,4,13.0
+1st phase - general contingent,no,yes,male,no,20,3,10.0,5,10.8
+Technological specialization diploma holders,no,no,male,no,20,5,13.2,3,12.0
+Transfer,no,yes,male,no,37,5,15.8,5,17.6
+Change of course,no,yes,male,no,18,5,13.8,5,12.4
+1st phase - general contingent,no,yes,male,no,23,6,13.0,6,12.0
+Change of course,no,yes,male,no,18,4,13.75,5,11.2
+Change of course,no,yes,male,no,32,7,11.285714285714286,6,12.333333333333334
+1st phase - general contingent,yes,yes,male,no,19,11,12.0,10,11.181818181818182
+1st phase - special contingent (Azores Island),no,yes,male,no,20,0,0.0,0,0.0
+International student (bachelor),yes,yes,male,no,40,1,11.0,1,10.0
+1st phase - general contingent,no,yes,male,no,20,5,10.2,5,11.2
+Technological specialization diploma holders,no,yes,female,no,20,4,12.0,4,12.4
+1st phase - general contingent,no,yes,female,no,19,6,13.411428571428573,7,13.294444444444444
+1st phase - general contingent,no,yes,female,no,19,4,11.8,4,12.2
+2nd phase - general contingent,no,yes,female,no,20,6,11.833333333333334,6,14.333333333333334
+1st phase - general contingent,no,yes,female,no,18,6,13.345,6,13.345
+1st phase - general contingent,no,yes,female,no,18,6,12.166666666666666,4,12.75
+Short cycle diploma holders,no,no,female,yes,22,6,11.0,4,12.0
+2nd phase - general contingent,yes,yes,female,no,20,2,11.5,3,10.0
+1st phase - general contingent,yes,no,female,no,23,6,14.0,4,13.0
+1st phase - general contingent,no,yes,female,no,20,6,11.166666666666666,6,11.5
+Change of institution/course,no,yes,female,no,21,5,12.8,3,12.666666666666666
+2nd phase - general contingent,no,yes,female,no,20,6,12.5,6,11.5
+2nd phase - general contingent,no,no,female,yes,20,7,13.462857142857144,7,13.164285714285716
+1st phase - general contingent,no,yes,female,no,20,6,14.714285714285714,6,13.2
+Change of course,yes,yes,female,no,21,5,13.2,2,12.5
+1st phase - general contingent,no,yes,male,no,18,4,12.0,2,11.0
+Change of institution/course,no,yes,male,no,23,5,12.414285714285713,2,13.5
+2nd phase - general contingent,no,no,male,no,22,4,11.5,4,14.0
+1st phase - general contingent,no,yes,female,no,18,4,14.25,5,12.714285714285714
+1st phase - special contingent (Azores Island),no,yes,female,no,22,5,12.6,4,11.25
+2nd phase - general contingent,yes,no,male,no,18,0,0.0,0,0.0
+1st phase - general contingent,no,yes,male,yes,21,5,11.2,6,11.583333333333334
+1st phase - general contingent,no,yes,female,no,21,6,10.833333333333334,4,11.0
+2nd phase - general contingent,no,yes,female,no,20,4,11.25,3,10.0
+Over 23 years old,no,yes,female,no,37,2,10.0,3,11.333333333333334
+Over 23 years old,yes,yes,female,no,37,7,11.375,6,12.166666666666666
+Over 23 years old,yes,yes,female,no,28,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,18,1,11.0,2,12.5
+Over 23 years old,no,yes,female,no,34,7,11.705714285714285,7,11.705714285714285
+Technological specialization diploma holders,no,yes,female,no,31,6,12.0,7,13.428571428571429
+1st phase - general contingent,no,yes,female,no,18,6,12.666666666666666,4,12.25
+Over 23 years old,no,yes,female,no,31,0,0.0,0,0.0
+1st phase - general contingent,no,yes,male,no,18,2,11.666666666666666,2,12.5
+Over 23 years old,no,yes,male,no,24,3,10.666666666666666,2,10.5
+2nd phase - general contingent,yes,no,male,no,18,3,12.0,3,10.333333333333334
+Over 23 years old,no,yes,male,yes,41,4,11.0,5,11.4
+Over 23 years old,no,yes,male,no,34,4,11.75,4,10.833333333333334
+1st phase - general contingent,no,yes,female,yes,20,5,14.46,6,13.55
+Technological specialization diploma holders,no,yes,female,no,22,5,12.8,2,11.5
+1st phase - general contingent,no,yes,female,yes,18,4,12.0,4,10.75
+1st phase - general contingent,no,yes,female,yes,18,6,14.333333333333334,6,14.0
+1st phase - general contingent,no,yes,female,no,18,5,12.333333333333334,5,10.6
+1st phase - general contingent,yes,yes,female,no,18,5,13.6,4,11.75
+1st phase - general contingent,no,yes,female,no,19,4,12.5,5,12.5
+Change of institution/course,no,yes,female,no,21,5,12.2,4,12.6
+2nd phase - general contingent,no,yes,female,no,18,5,11.4,6,13.333333333333334
+Change of course,no,yes,female,no,18,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,18,3,12.0,4,10.25
+Change of course,no,yes,female,no,21,6,11.166666666666666,7,10.571428571428571
+1st phase - general contingent,no,yes,female,yes,20,5,12.62,6,12.5
+Over 23 years old,no,yes,female,no,25,3,10.666666666666666,3,11.333333333333334
+Over 23 years old,no,yes,female,no,25,7,11.857142857142858,5,11.7
+Over 23 years old,no,yes,female,no,24,4,15.75,5,16.4
+1st phase - general contingent,no,yes,female,no,19,4,11.0,3,10.666666666666666
+2nd phase - general contingent,no,yes,female,yes,19,5,12.4,3,11.0
+1st phase - special contingent (Madeira Island),no,yes,female,yes,20,3,12.0,4,12.625
+1st phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+3rd phase - general contingent,no,yes,female,no,18,6,12.0,6,12.166666666666666
+2nd phase - general contingent,no,yes,female,no,19,3,10.333333333333334,3,14.428571428571429
+1st phase - general contingent,no,yes,female,no,19,5,12.94,5,13.76
+1st phase - general contingent,no,yes,female,no,19,4,12.25,4,12.0
+Holders of other higher courses,no,yes,female,no,32,4,13.625,7,12.6375
+Over 23 years old,no,yes,male,no,24,4,12.0,5,12.666666666666666
+1st phase - general contingent,no,yes,female,no,19,6,13.598333333333334,6,11.933333333333332
+Holders of other higher courses,no,yes,female,no,45,11,12.7,10,12.96818181818182
+2nd phase - general contingent,no,yes,female,no,18,6,11.5,7,12.714285714285714
+Over 23 years old,yes,yes,female,no,37,6,12.875,6,12.9
+2nd phase - general contingent,no,yes,female,yes,20,4,10.75,5,11.5
+1st phase - general contingent,no,yes,female,yes,18,6,13.533333333333331,7,12.228571428571428
+Short cycle diploma holders,yes,yes,female,no,21,8,13.25,5,12.2
+Over 23 years old,no,yes,male,no,25,1,11.0,1,10.0
+Short cycle diploma holders,yes,yes,female,no,21,1,12.0,1,11.0
+Change of course,no,yes,female,no,19,0,0.0,4,14.75
+Short cycle diploma holders,yes,yes,female,no,23,8,12.375,5,12.6
+2nd phase - general contingent,no,yes,female,no,18,5,12.6,6,12.428571428571429
+Over 23 years old,no,yes,male,yes,24,4,12.25,4,11.5
+1st phase - general contingent,no,yes,male,yes,20,6,11.375,5,13.8
+2nd phase - general contingent,no,yes,male,yes,18,4,13.5,6,13.625
+3rd phase - general contingent,no,yes,male,no,26,4,10.0,3,12.0
+1st phase - general contingent,no,yes,female,no,18,6,12.333333333333334,3,12.0
+2nd phase - general contingent,no,yes,female,no,19,3,12.0,4,11.75
+1st phase - general contingent,no,yes,female,no,20,6,13.5,6,14.0
+2nd phase - general contingent,no,yes,female,no,18,4,10.666666666666666,2,12.0
+1st phase - general contingent,no,yes,female,no,21,4,12.5,2,12.666666666666666
+1st phase - general contingent,no,yes,female,no,18,4,11.5,3,13.75
+1st phase - general contingent,no,yes,female,no,20,3,11.2,4,12.0
+2nd phase - general contingent,no,yes,female,no,19,5,13.0,5,10.4
+Over 23 years old,no,yes,female,yes,27,6,12.6,6,11.685714285714283
+2nd phase - general contingent,yes,no,female,yes,19,5,12.8,4,12.0
+1st phase - general contingent,no,yes,female,yes,19,5,13.04,7,12.5
+Short cycle diploma holders,yes,no,female,no,23,11,13.166666666666666,8,13.333333333333334
+1st phase - general contingent,no,yes,female,yes,20,5,10.6,5,11.166666666666666
+1st phase - general contingent,no,yes,female,no,20,6,13.428571428571429,5,12.666666666666666
+2nd phase - general contingent,no,yes,male,no,18,5,12.0,4,12.5
+1st phase - general contingent,no,yes,male,no,21,4,11.5,3,10.6
+1st phase - general contingent,no,yes,female,no,20,6,13.333333333333334,6,13.0
+1st phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,19,5,12.2,5,10.8
+1st phase - general contingent,no,yes,female,yes,19,4,11.0,3,11.666666666666666
+1st phase - general contingent,no,yes,female,yes,19,5,11.6,3,12.666666666666666
+1st phase - general contingent,no,yes,female,no,18,4,13.5,5,13.4
+1st phase - general contingent,no,yes,female,no,19,5,13.4,2,13.5
+2nd phase - general contingent,no,yes,female,yes,21,3,10.2,4,12.25
+1st phase - general contingent,no,yes,female,yes,18,6,10.833333333333334,5,11.0
+1st phase - general contingent,no,yes,female,yes,18,6,12.816666666666668,6,12.875
+International student (bachelor),yes,yes,female,no,19,2,13.5,2,11.0
+1st phase - general contingent,no,yes,male,no,20,4,11.6,4,12.25
+1st phase - general contingent,no,yes,male,no,20,5,12.0,4,13.0
+1st phase - general contingent,no,yes,male,no,18,6,13.976666666666668,6,12.041666666666666
+1st phase - general contingent,no,yes,male,no,19,4,12.5,1,10.0
+1st phase - general contingent,no,yes,male,no,19,3,11.666666666666666,4,12.0
+2nd phase - general contingent,no,yes,male,no,20,6,11.833333333333334,5,10.4
+2nd phase - general contingent,no,yes,male,no,21,4,13.2,4,14.25
+2nd phase - general contingent,no,yes,male,no,18,5,12.0,4,11.4
+Technological specialization diploma holders,no,yes,male,no,20,4,11.6,5,11.5
+2nd phase - general contingent,no,yes,male,no,20,4,12.0,2,12.5
+2nd phase - general contingent,no,yes,female,yes,25,6,11.285714285714286,5,12.2
+Over 23 years old,no,yes,male,no,28,5,12.0,6,12.333333333333334
+Over 23 years old,no,yes,female,no,35,5,13.34,5,10.84
+Over 23 years old,no,yes,female,no,27,7,12.457142857142856,7,12.457142857142856
+Over 23 years old,no,yes,female,yes,31,4,10.5,4,10.5
+Over 23 years old,no,yes,male,no,47,4,10.0,4,12.5
+1st phase - general contingent,no,yes,male,yes,20,0,0.0,0,0.0
+1st phase - general contingent,no,yes,male,no,18,0,0.0,0,0.0
+Over 23 years old,no,yes,female,no,39,2,13.0,3,13.0
+Holders of other higher courses,yes,yes,male,no,30,4,14.5,3,16.2
+Technological specialization diploma holders,no,yes,female,no,41,4,12.25,6,12.5
+3rd phase - general contingent,no,no,female,no,18,5,12.6,5,11.8
+2nd phase - general contingent,yes,yes,male,no,18,0,0.0,0,0.0
+International student (bachelor),no,yes,male,no,20,7,12.857142857142858,4,12.75
+2nd phase - general contingent,no,yes,female,no,21,5,13.6,4,14.25
+Technological specialization diploma holders,yes,no,female,no,20,3,12.0,2,11.0
+2nd phase - general contingent,no,yes,female,no,20,6,13.166666666666666,4,14.0
+International student (bachelor),yes,yes,female,no,19,0,0.0,2,11.666666666666666
+1st phase - general contingent,no,yes,female,no,45,12,14.0,7,13.857142857142858
+Over 23 years old,no,yes,female,no,28,4,11.25,4,13.0
+1st phase - special contingent (Madeira Island),no,yes,male,yes,18,0,0.0,0,0.0
+1st phase - special contingent (Madeira Island),no,yes,female,no,18,1,11.0,4,11.0
+1st phase - general contingent,no,yes,female,no,18,4,12.0,4,12.25
+2nd phase - general contingent,no,yes,male,no,21,5,11.166666666666666,3,10.8
+1st phase - general contingent,no,yes,male,no,18,4,11.5,2,10.333333333333334
+2nd phase - general contingent,no,yes,male,no,19,2,10.5,4,11.75
+1st phase - general contingent,no,yes,male,no,19,4,12.5,4,11.0
+1st phase - general contingent,no,yes,male,no,22,6,12.833333333333334,6,12.5
+2nd phase - general contingent,no,yes,male,no,21,6,12.285714285714286,4,14.25
+1st phase - general contingent,no,yes,male,no,18,5,11.0,3,10.333333333333334
+Short cycle diploma holders,yes,yes,male,no,20,11,12.545454545454543,8,11.625
+2nd phase - general contingent,no,yes,male,no,18,6,12.666666666666666,5,13.6
+1st phase - special contingent (Madeira Island),no,yes,male,no,18,5,13.0,5,12.4
+Change of course,no,yes,male,no,54,13,13.307692307692308,11,12.818181818181818
+1st phase - general contingent,no,yes,female,no,19,7,14.514285714285714,7,14.514285714285714
+Holders of other higher courses,no,yes,female,no,27,5,15.2,5,14.0
+1st phase - general contingent,no,yes,female,no,20,4,11.75,2,10.5
+1st phase - general contingent,no,yes,female,no,20,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,19,6,14.0,5,15.0
+Over 23 years old,no,yes,female,no,25,4,12.5,4,11.0
+1st phase - general contingent,no,yes,male,no,19,3,10.666666666666666,2,14.0
+1st phase - general contingent,no,yes,male,no,19,4,12.25,3,12.666666666666666
+1st phase - general contingent,no,yes,male,no,20,0,0.0,0,0.0
+1st phase - general contingent,no,yes,male,no,19,5,11.8,4,12.4
+1st phase - general contingent,no,yes,male,no,18,2,14.0,3,11.0
+1st phase - general contingent,no,yes,male,no,19,4,10.75,4,12.25
+Technological specialization diploma holders,no,yes,female,no,31,4,12.25,7,12.0
+Technological specialization diploma holders,yes,no,female,no,24,4,12.5,2,11.5
+Over 23 years old,no,yes,male,yes,33,1,10.0,1,10.0
+Technological specialization diploma holders,no,yes,female,yes,20,4,12.0,4,10.75
+Over 23 years old,no,yes,male,no,44,9,12.333333333333334,9,11.0
+1st phase - general contingent,no,yes,male,no,18,6,12.035714285714286,7,13.75
+2nd phase - general contingent,no,yes,male,no,19,5,12.2,2,12.0
+Technological specialization diploma holders,no,yes,male,no,21,7,11.285714285714286,4,12.25
+2nd phase - general contingent,no,yes,male,no,20,5,11.8,4,12.0
+Technological specialization diploma holders,no,yes,male,no,20,0,0.0,2,10.5
+1st phase - general contingent,no,no,male,yes,18,5,14.2,5,14.2
+2nd phase - general contingent,yes,yes,male,no,19,10,12.7,10,12.272727272727272
+Technological specialization diploma holders,no,no,male,no,26,8,15.125,6,13.666666666666666
+Change of institution/course,yes,yes,male,no,32,3,12.0,3,10.333333333333334
+1st phase - special contingent (Madeira Island),no,yes,female,yes,23,4,14.25,5,12.0
+Over 23 years old,no,yes,female,no,24,2,10.5,4,10.0
+Transfer,no,yes,male,no,25,5,11.666666666666666,4,12.0
+2nd phase - general contingent,no,yes,male,no,19,5,10.8,3,10.0
+1st phase - general contingent,no,yes,male,no,21,5,12.8,5,12.25
+2nd phase - general contingent,yes,yes,male,no,19,4,11.0,2,12.0
+Change of course,no,yes,male,no,25,3,11.0,4,11.5
+Change of course,no,yes,female,no,21,4,13.125,6,12.333333333333334
+1st phase - general contingent,no,yes,male,yes,19,5,11.8,3,11.5
+1st phase - general contingent,no,no,male,yes,18,5,12.2,4,12.0
+Over 23 years old,yes,yes,male,no,24,6,14.88888888888889,6,13.727272727272728
+Change of course,no,no,female,no,19,5,13.0,3,11.666666666666666
+1st phase - general contingent,no,yes,female,yes,19,4,12.65,5,11.1
+2nd phase - general contingent,no,yes,female,no,19,1,11.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,21,3,11.333333333333334,2,10.5
+1st phase - general contingent,no,yes,female,yes,18,4,11.571428571428571,5,12.0
+Over 23 years old,no,yes,female,no,39,5,12.16,5,12.16
+1st phase - general contingent,yes,yes,male,no,20,5,13.2,5,11.4
+Change of course,no,yes,male,no,19,3,12.5,4,11.0
+Transfer,no,yes,male,no,27,2,12.5,2,12.5
+Over 23 years old,no,yes,male,no,34,0,0.0,1,11.0
+Technological specialization diploma holders,yes,yes,male,no,41,5,14.333333333333334,6,14.636363636363637
+Over 23 years old,no,yes,female,no,48,4,11.75,3,11.725
+1st phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,19,2,10.5,3,11.0
+1st phase - general contingent,no,yes,female,no,21,4,12.0,2,11.5
+2nd phase - general contingent,no,yes,female,no,19,5,12.333333333333334,5,11.0
+Change of course,yes,yes,female,no,20,5,12.2,5,14.6
+Technological specialization diploma holders,no,yes,female,no,20,5,14.2,2,13.5
+1st phase - general contingent,no,yes,female,no,18,5,12.8,3,10.0
+1st phase - general contingent,no,no,female,yes,18,5,11.8,5,13.0
+1st phase - general contingent,no,yes,female,no,17,5,12.46,5,12.46
+1st phase - general contingent,no,yes,female,no,18,5,11.833333333333334,2,11.5
+Short cycle diploma holders,yes,no,female,no,24,8,13.125,6,13.0
+3rd phase - general contingent,no,yes,female,yes,20,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,18,3,12.333333333333334,5,11.6
+2nd phase - general contingent,yes,yes,female,no,18,4,13.25,3,10.666666666666666
+Change of institution/course,yes,yes,female,no,20,8,12.625,3,11.0
+1st phase - general contingent,no,yes,female,no,19,4,12.85,7,12.62142857142857
+Technological specialization diploma holders,no,yes,female,no,20,6,14.285714285714286,3,13.0
+Over 23 years old,no,yes,female,no,34,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,18,4,11.25,5,12.2
+Over 23 years old,yes,yes,female,no,25,6,11.333333333333334,4,11.75
+1st phase - general contingent,no,yes,female,no,21,5,11.6,5,13.0
+Over 23 years old,no,yes,female,no,34,2,11.5,4,11.75
+1st phase - general contingent,no,yes,male,no,17,0,0.0,0,0.0
+Transfer,no,yes,male,no,22,3,14.5,4,14.375
+1st phase - general contingent,no,yes,female,no,19,5,13.44,6,13.066666666666668
+Technological specialization diploma holders,no,yes,female,no,20,6,13.0,2,12.0
+3rd phase - general contingent,no,yes,female,no,19,5,12.666666666666666,5,11.0
+1st phase - general contingent,no,yes,female,no,21,5,12.2,3,11.333333333333334
+2nd phase - general contingent,no,yes,female,no,21,5,11.8,5,11.833333333333334
+Change of course,no,yes,female,yes,18,5,12.16,2,13.4
+1st phase - special contingent (Madeira Island),no,yes,female,no,18,1,15.0,4,12.5
+2nd phase - general contingent,no,yes,female,no,18,2,11.5,3,11.8
+Technological specialization diploma holders,no,yes,female,no,19,1,13.0,3,15.333333333333334
+2nd phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,18,6,12.0,4,12.75
+2nd phase - general contingent,no,yes,female,no,18,7,12.385714285714286,7,12.728571428571428
+2nd phase - general contingent,yes,no,female,no,18,5,12.4,5,14.166666666666666
+Technological specialization diploma holders,no,yes,female,no,21,3,11.75,5,12.333333333333334
+2nd phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,19,1,11.5,2,10.5
+1st phase - general contingent,no,yes,female,yes,18,6,12.0,5,11.142857142857142
+2nd phase - general contingent,no,yes,male,yes,18,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,male,no,18,3,11.0,3,11.0
+1st phase - general contingent,no,yes,male,yes,19,4,12.0,6,12.285714285714286
+2nd phase - general contingent,no,yes,male,no,20,2,10.5,4,12.25
+Change of course,no,yes,male,no,19,3,11.666666666666666,4,10.333333333333334
+Technological specialization diploma holders,no,yes,male,yes,20,6,14.142857142857142,6,14.125
+Change of course,no,yes,male,no,22,0,0.0,3,13.333333333333334
+2nd phase - general contingent,no,yes,male,yes,22,3,12.333333333333334,3,10.571428571428571
+1st phase - general contingent,no,yes,male,no,19,5,10.2,3,12.0
+1st phase - general contingent,no,yes,male,no,19,5,12.6,8,11.0
+Change of course,no,yes,male,no,18,4,12.25,3,11.666666666666666
+2nd phase - general contingent,no,yes,male,yes,18,3,10.666666666666666,4,12.0
+1st phase - general contingent,no,yes,male,no,19,4,12.75,2,13.0
+Over 23 years old,no,yes,male,no,24,6,11.333333333333334,3,11.333333333333334
+Over 23 years old,yes,no,male,no,25,0,0.0,0,0.0
+Over 23 years old,no,yes,male,no,37,4,10.75,3,11.333333333333334
+Change of course,no,yes,male,no,19,5,12.0,2,10.5
+2nd phase - general contingent,no,yes,male,yes,19,6,12.528571428571428,6,12.416666666666666
+Change of course,no,yes,male,yes,21,0,0.0,0,0.0
+Technological specialization diploma holders,no,yes,male,no,20,3,10.666666666666666,2,11.5
+1st phase - general contingent,no,yes,male,yes,19,6,13.125,6,12.714285714285714
+1st phase - general contingent,no,yes,male,no,42,5,12.4,5,11.8
+3rd phase - general contingent,no,no,male,no,21,5,14.0,4,14.8
+1st phase - general contingent,no,yes,male,no,19,5,11.4,3,11.0
+Technological specialization diploma holders,no,yes,male,no,21,4,11.75,4,10.5
+1st phase - general contingent,no,yes,male,no,20,6,13.428571428571429,4,11.5
+Transfer,no,yes,male,no,19,4,11.8,2,11.5
+Technological specialization diploma holders,no,yes,male,no,23,3,14.0,1,14.0
+2nd phase - general contingent,no,yes,male,no,18,6,12.333333333333334,5,10.8
+1st phase - general contingent,yes,yes,male,yes,22,5,10.666666666666666,2,11.0
+3rd phase - general contingent,no,yes,male,no,19,5,11.833333333333334,5,14.714285714285714
+1st phase - general contingent,no,yes,male,yes,22,6,11.666666666666666,6,12.166666666666666
+Change of course,no,yes,male,no,38,5,16.0,4,16.5
+Over 23 years old,no,yes,male,no,27,7,14.085714285714284,7,14.085714285714284
+Change of institution/course,no,yes,male,no,19,0,0.0,1,10.0
+2nd phase - general contingent,no,yes,male,no,20,5,15.8,5,13.714285714285714
+2nd phase - general contingent,no,yes,male,no,18,4,12.5,3,14.666666666666666
+Change of course,no,yes,male,no,19,4,12.5,4,13.25
+Over 23 years old,yes,yes,male,no,24,1,10.0,1,11.0
+Technological specialization diploma holders,no,yes,male,no,22,0,0.0,2,11.666666666666666
+1st phase - general contingent,no,yes,male,yes,19,4,12.0,4,12.5
+1st phase - general contingent,yes,yes,male,no,23,13,12.153846153846152,11,11.909090909090908
+1st phase - general contingent,no,no,male,no,29,6,16.5,5,13.8
+Technological specialization diploma holders,no,yes,male,no,20,6,11.285714285714286,5,11.77777777777778
+2nd phase - general contingent,no,yes,male,no,22,0,0.0,0,0.0
+1st phase - general contingent,no,yes,male,no,20,5,14.0,6,12.0
+Over 23 years old,no,yes,male,no,24,4,13.75,3,12.0
+Short cycle diploma holders,yes,yes,male,no,21,10,11.8,9,11.444444444444445
+2nd phase - general contingent,no,yes,male,no,20,4,11.5,0,0.0
+1st phase - general contingent,no,yes,male,no,22,5,13.4,3,10.666666666666666
+1st phase - general contingent,no,yes,male,no,18,2,13.5,3,12.333333333333334
+Change of course,no,yes,male,no,22,3,11.333333333333334,3,12.333333333333334
+1st phase - general contingent,no,yes,male,no,19,5,11.4,5,12.4
+Over 23 years old,no,yes,female,no,43,3,10.666666666666666,4,12.5
+Over 23 years old,no,yes,male,no,24,7,13.571428571428571,5,13.4
+2nd phase - general contingent,no,yes,male,no,18,4,12.0,3,13.0
+Change of course,no,yes,male,no,21,0,0.0,3,11.666666666666666
+Over 23 years old,no,yes,male,no,39,5,11.4,3,11.0
+Over 23 years old,no,yes,male,no,34,6,11.333333333333334,4,12.6
+1st phase - general contingent,yes,no,male,no,18,0,0.0,0,0.0
+International student (bachelor),no,yes,male,no,21,12,15.083333333333334,11,13.083333333333334
+1st phase - general contingent,no,yes,male,no,27,3,10.0,1,13.0
+1st phase - general contingent,no,yes,male,no,18,4,10.0,1,16.0
+Technological specialization diploma holders,no,yes,male,yes,20,5,13.833333333333334,6,12.3
+Technological specialization diploma holders,no,yes,male,no,19,5,11.6,2,11.0
+1st phase - general contingent,no,yes,male,no,23,6,12.666666666666666,5,12.2
+Change of course,no,yes,male,no,22,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,male,no,20,3,12.666666666666666,2,12.5
+2nd phase - general contingent,no,yes,male,no,20,3,13.666666666666666,4,10.25
+1st phase - general contingent,no,yes,male,no,19,5,10.8,2,13.5
+International student (bachelor),no,yes,female,no,18,4,11.575,5,12.419999999999998
+2nd phase - general contingent,no,yes,male,no,20,4,14.25,1,10.0
+2nd phase - general contingent,no,yes,female,yes,18,6,12.833333333333334,6,13.0
+2nd phase - general contingent,no,yes,female,no,19,5,11.4,4,10.75
+Change of course,no,yes,female,no,19,5,14.857142857142858,5,15.142857142857142
+Technological specialization diploma holders,no,yes,female,no,19,3,11.666666666666666,4,11.5
+2nd phase - general contingent,no,yes,female,yes,20,6,12.5,6,14.333333333333334
+3rd phase - general contingent,yes,yes,male,no,18,3,10.666666666666666,3,11.333333333333334
+1st phase - general contingent,no,yes,male,no,18,4,10.5,2,10.5
+1st phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+Change of course,no,yes,female,no,19,5,11.5,2,10.666666666666666
+1st phase - general contingent,no,yes,female,no,20,1,12.0,0,0.0
+Over 23 years old,no,yes,female,no,26,3,10.666666666666666,5,11.2
+Over 23 years old,yes,yes,female,no,41,5,11.6,5,12.2
+Over 23 years old,no,yes,female,no,26,4,12.0,4,11.25
+3rd phase - general contingent,no,yes,female,no,21,3,12.0,3,12.666666666666666
+1st phase - general contingent,no,yes,female,no,24,2,10.5,1,11.0
+1st phase - general contingent,no,yes,female,no,18,5,12.2,5,12.2
+1st phase - general contingent,yes,no,female,no,22,6,11.5,6,13.166666666666666
+2nd phase - general contingent,no,yes,female,no,23,2,10.0,1,12.0
+2nd phase - general contingent,no,yes,female,no,21,2,13.0,4,12.0
+2nd phase - general contingent,no,yes,female,no,18,5,13.4,5,12.0
+2nd phase - general contingent,no,yes,female,no,22,4,12.25,3,11.333333333333334
+Transfer,no,yes,female,no,29,9,11.555555555555555,10,11.9
+1st phase - general contingent,no,yes,male,no,19,7,12.2,7,12.2
+1st phase - general contingent,no,yes,male,yes,18,4,10.8,4,11.75
+Over 23 years old,no,yes,male,no,28,4,12.75,5,14.333333333333334
+1st phase - general contingent,no,yes,male,no,20,6,12.714285714285714,4,13.0
+Change of course,no,yes,male,no,26,7,13.285714285714286,7,12.142857142857142
+1st phase - general contingent,no,yes,male,no,20,5,13.976666666666668,8,13.22222222222222
+2nd phase - general contingent,no,yes,male,yes,20,6,12.0,6,12.5
+Over 23 years old,no,yes,male,no,43,7,11.635714285714286,7,11.635714285714286
+2nd phase - general contingent,yes,yes,male,no,18,4,12.5,5,11.285714285714286
+Over 23 years old,no,yes,male,no,40,3,11.0,4,12.5
+1st phase - general contingent,no,yes,male,no,27,6,10.666666666666666,4,11.25
+Technological specialization diploma holders,yes,yes,male,no,26,0,0.0,0,0.0
+1st phase - general contingent,no,yes,male,no,20,5,10.8,3,12.0
+Change of institution/course,no,yes,male,no,20,5,11.0,3,10.0
+1st phase - general contingent,yes,yes,male,no,20,0,0.0,0,0.0
+Over 23 years old,yes,yes,male,no,30,4,14.4,6,13.5
+2nd phase - general contingent,yes,no,male,no,21,4,12.25,4,13.4
+2nd phase - general contingent,no,yes,male,no,19,0,0.0,0,0.0
+Over 23 years old,no,yes,female,no,25,7,11.95,7,12.042857142857144
+Over 23 years old,no,yes,female,yes,26,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,19,3,11.0,4,11.75
+Change of course,no,yes,female,no,21,4,11.75,3,13.666666666666666
+1st phase - general contingent,no,yes,female,no,21,1,11.0,2,10.5
+Over 23 years old,no,no,female,no,26,6,15.428571428571429,5,14.5
+1st phase - general contingent,no,yes,female,no,20,7,14.014285714285714,7,14.014285714285714
+2nd phase - general contingent,no,yes,female,no,18,2,10.333333333333334,3,13.333333333333334
+1st phase - general contingent,yes,yes,male,no,20,7,12.401428571428571,6,11.808333333333332
+Technological specialization diploma holders,no,yes,male,no,23,0,0.0,0,0.0
+Technological specialization diploma holders,no,yes,male,no,20,4,10.8,4,12.0
+Change of course,no,yes,female,no,45,8,11.0,6,10.833333333333334
+Over 23 years old,no,yes,female,yes,26,3,12.333333333333334,3,11.666666666666666
+Over 23 years old,no,yes,female,no,25,3,11.0,3,11.25
+1st phase - general contingent,no,yes,male,no,19,5,12.858,5,12.858
+1st phase - general contingent,no,yes,female,yes,19,5,14.06,7,11.242857142857142
+2nd phase - general contingent,no,yes,female,yes,18,0,0.0,0,0.0
+Change of course,no,yes,female,no,19,4,13.75,5,12.6
+Change of course,no,yes,female,no,23,3,11.333333333333334,2,11.0
+1st phase - general contingent,no,yes,female,no,20,5,13.2,6,12.666666666666666
+1st phase - general contingent,no,yes,male,no,19,3,11.333333333333334,4,11.0
+Over 23 years old,no,yes,male,no,29,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,no,18,6,14.625,6,14.142857142857142
+1st phase - general contingent,no,yes,female,no,19,4,13.375,6,12.116666666666667
+1st phase - general contingent,no,yes,female,yes,19,4,11.0,4,13.857142857142858
+Change of course,no,yes,female,no,18,0,0.0,3,11.0
+2nd phase - general contingent,no,yes,female,yes,19,6,13.285714285714286,5,14.6
+1st phase - general contingent,no,yes,female,no,19,5,11.716666666666669,5,13.7
+1st phase - general contingent,no,yes,female,no,18,6,12.333333333333334,6,12.833333333333334
+2nd phase - general contingent,no,yes,female,no,18,5,12.6,4,11.0
+Over 23 years old,yes,no,female,no,34,6,14.333333333333334,6,12.833333333333334
+1st phase - general contingent,no,yes,female,no,22,3,12.0,2,11.0
+Over 23 years old,no,yes,female,no,50,3,13.333333333333334,5,12.2
+Over 23 years old,no,yes,female,yes,25,3,11.666666666666666,2,11.333333333333334
+Over 23 years old,no,yes,female,no,50,2,10.5,3,11.0
+Change of course,no,yes,female,no,48,5,13.0,4,12.5
+Over 23 years old,no,yes,female,no,41,4,14.5,5,13.0
+Change of course,no,yes,female,no,28,6,10.666666666666666,9,11.333333333333334
+Change of institution/course,no,yes,female,no,53,15,11.8,12,11.666666666666666
+Over 23 years old,no,yes,female,no,49,5,12.333333333333334,4,11.5
+Change of course,no,yes,female,no,22,8,11.0,5,11.2
+Over 23 years old,no,yes,female,no,40,4,11.25,5,12.0
+Change of course,no,yes,female,no,36,11,11.5,12,11.4375
+Over 23 years old,no,yes,female,yes,48,6,10.666666666666666,5,11.8
+Over 23 years old,no,yes,female,no,34,4,13.25,0,0.0
+1st phase - general contingent,no,yes,female,no,19,1,13.67,1,13.67
+Over 23 years old,no,yes,female,no,34,4,11.0,4,10.75
+Over 23 years old,no,yes,female,no,28,7,12.428571428571429,8,12.3
+Over 23 years old,no,yes,female,no,35,5,11.4,3,12.333333333333334
+2nd phase - general contingent,no,yes,female,no,18,0,0.0,0,0.0
+1st phase - special contingent (Azores Island),no,yes,female,no,18,3,12.0,4,13.0
+Change of course,no,yes,female,no,20,4,12.25,4,11.5
+1st phase - general contingent,no,yes,female,no,18,4,11.75,5,11.2
+2nd phase - general contingent,no,yes,female,no,20,4,11.0,4,11.5
+Over 23 years old,no,yes,female,no,24,7,12.714285714285714,7,12.714285714285714
+2nd phase - general contingent,no,yes,female,yes,19,2,10.0,4,11.75
+1st phase - general contingent,no,yes,female,no,18,6,12.571428571428571,6,12.571428571428571
+2nd phase - general contingent,no,yes,female,no,18,6,13.39,7,12.757142857142856
+1st phase - general contingent,no,yes,female,no,19,3,12.333333333333334,4,10.25
+Transfer,no,yes,female,no,19,2,11.5,3,10.857142857142858
+1st phase - general contingent,no,yes,female,no,19,6,15.0,6,14.0
+1st phase - general contingent,no,yes,female,no,19,5,12.32,5,11.9
+1st phase - general contingent,no,yes,male,yes,20,6,11.333333333333334,4,10.571428571428571
+Over 23 years old,no,yes,male,no,33,4,12.0,3,13.666666666666666
+1st phase - general contingent,no,yes,male,no,20,5,12.8,5,11.6
+Change of course,yes,no,male,no,27,0,0.0,0,0.0
+Holders of other higher courses,no,yes,female,no,33,6,12.833333333333334,4,12.0
+2nd phase - general contingent,no,yes,female,yes,20,5,13.2,5,12.833333333333334
+1st phase - general contingent,no,yes,female,no,19,5,11.6,6,11.666666666666666
+1st phase - general contingent,no,yes,female,no,18,6,13.166666666666666,6,12.5
+1st phase - general contingent,no,yes,female,no,19,5,12.6,5,12.375
+1st phase - general contingent,no,yes,female,no,21,3,11.333333333333334,3,13.333333333333334
+2nd phase - general contingent,no,yes,female,yes,19,3,10.5,4,11.75
+2nd phase - general contingent,no,yes,female,no,21,6,10.375,3,11.666666666666666
+1st phase - general contingent,no,yes,female,no,21,6,13.25,8,13.8375
+2nd phase - general contingent,no,yes,female,no,18,7,12.50625,5,13.2
+1st phase - general contingent,no,yes,female,yes,19,5,12.2,4,11.5
+1st phase - general contingent,no,yes,female,no,20,5,12.04,6,11.77142857142857
+2nd phase - general contingent,no,yes,female,no,20,5,11.166666666666666,4,10.75
+1st phase - general contingent,no,yes,female,no,20,4,12.5,2,13.0
+1st phase - general contingent,no,yes,female,no,18,6,12.183333333333332,6,11.783333333333331
+1st phase - general contingent,no,yes,female,no,18,2,10.0,3,11.333333333333334
+2nd phase - general contingent,no,yes,male,no,21,6,11.166666666666666,3,14.666666666666666
+Change of course,no,yes,male,yes,20,3,11.0,2,11.333333333333334
+2nd phase - general contingent,no,yes,female,yes,19,5,11.333333333333334,6,10.833333333333334
+Change of course,no,yes,male,yes,19,5,11.2,5,11.2
+Over 23 years old,no,yes,male,no,28,4,10.5,4,11.0
+1st phase - general contingent,no,yes,male,no,21,3,11.25,3,11.0
+Change of institution/course,yes,yes,male,no,24,7,10.714285714285714,9,12.555555555555555
+Transfer,no,yes,male,no,23,5,12.0,5,12.142857142857142
+1st phase - general contingent,no,yes,male,no,20,6,12.166666666666666,3,12.0
+1st phase - general contingent,no,yes,male,no,18,0,0.0,0,0.0
+Change of course,no,yes,female,no,23,9,11.0,7,11.571428571428571
+Technological specialization diploma holders,no,yes,female,no,23,4,11.5,4,12.2
+Over 23 years old,no,yes,female,no,39,4,11.25,4,11.5
+1st phase - general contingent,no,yes,female,no,22,3,12.666666666666666,4,12.0
+Over 23 years old,no,yes,female,no,30,3,10.666666666666666,5,10.4
+Over 23 years old,no,yes,female,yes,35,3,11.666666666666666,5,11.8
+Change of course,no,yes,female,no,26,6,12.0,6,12.0
+Short cycle diploma holders,no,yes,female,no,30,9,12.22222222222222,9,11.6
+Over 23 years old,yes,yes,male,no,25,4,11.0,4,12.0
+2nd phase - general contingent,no,yes,female,no,18,7,13.68142857142857,7,13.68142857142857
+Change of course,no,yes,female,no,23,6,12.1,6,12.616666666666667
+2nd phase - general contingent,no,yes,female,yes,18,5,11.94,6,12.8
+Change of institution/course,yes,yes,female,no,31,5,11.0,6,10.166666666666666
+1st phase - general contingent,no,yes,male,no,20,6,12.857142857142858,5,12.4
+1st phase - general contingent,no,yes,male,no,19,5,11.0,2,10.0
+Over 23 years old,yes,yes,male,yes,34,1,17.0,2,11.0
+2nd phase - general contingent,no,yes,male,no,21,5,11.0,3,11.428571428571429
+2nd phase - general contingent,no,yes,male,no,21,0,0.0,1,10.0
+2nd phase - general contingent,no,yes,male,no,24,4,11.25,4,10.428571428571429
+2nd phase - general contingent,yes,no,male,no,20,5,12.4,4,13.0
+1st phase - general contingent,no,yes,male,no,19,1,13.0,2,10.0
+1st phase - general contingent,no,yes,male,no,26,6,11.833333333333334,6,11.666666666666666
+Technological specialization diploma holders,no,yes,male,no,20,1,13.0,3,12.6
+1st phase - general contingent,no,yes,female,no,21,4,11.0,5,12.0
+1st phase - general contingent,no,yes,male,no,26,2,11.5,3,12.0
+1st phase - general contingent,no,yes,female,yes,19,7,14.06,7,14.06
+1st phase - general contingent,no,yes,female,no,19,4,11.25,3,11.714285714285714
+1st phase - general contingent,no,yes,female,no,19,2,14.5,3,11.333333333333334
+Change of course,no,yes,female,yes,21,2,10.5,5,12.4
+1st phase - general contingent,no,yes,female,no,19,4,12.8,3,14.5
+Change of course,no,yes,female,no,18,0,0.0,4,13.25
+1st phase - general contingent,no,yes,female,no,20,6,13.571428571428571,5,13.6
+Change of course,no,yes,female,no,32,5,10.2,4,11.25
+1st phase - special contingent (Madeira Island),no,yes,female,no,19,5,12.2,5,11.8
+1st phase - special contingent (Azores Island),no,yes,female,no,19,6,13.428571428571429,4,14.0
+2nd phase - general contingent,no,yes,female,no,18,1,11.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,20,6,13.548333333333334,6,14.775
+1st phase - general contingent,no,yes,female,no,19,6,12.166666666666666,6,12.5
+3rd phase - general contingent,no,yes,female,no,24,5,10.8,2,11.0
+Change of course,no,yes,female,no,29,8,10.5,9,10.333333333333334
+2nd phase - general contingent,no,yes,female,no,19,6,11.15,7,12.814285714285717
+1st phase - general contingent,no,yes,female,no,19,3,11.666666666666666,5,13.625
+Over 23 years old,no,yes,female,no,24,5,12.285714285714286,5,12.125
+Over 23 years old,yes,yes,female,no,28,4,13.375,5,13.5
+Change of course,no,yes,female,no,38,5,13.126,5,13.126
+1st phase - general contingent,no,yes,female,no,19,3,10.333333333333334,5,11.8
+1st phase - general contingent,no,yes,female,no,20,4,12.0,2,11.5
+1st phase - general contingent,no,yes,female,no,29,5,11.4,4,10.25
+1st phase - general contingent,no,yes,female,yes,19,7,12.771428571428572,7,12.771428571428572
+Over 23 years old,yes,yes,male,no,28,7,11.0,1,10.0
+Over 23 years old,no,yes,male,no,27,0,0.0,0,0.0
+1st phase - general contingent,no,yes,male,yes,18,4,11.25,4,12.25
+Technological specialization diploma holders,no,yes,male,no,20,5,12.4,2,15.0
+Change of course,no,yes,male,no,23,1,13.0,4,11.25
+Change of course,no,yes,male,no,21,2,10.0,3,10.333333333333334
+Over 23 years old,no,yes,male,no,34,5,14.2,5,14.6
+1st phase - general contingent,no,yes,male,no,20,5,12.7,7,13.475
+Transfer,no,yes,male,no,24,8,13.333333333333334,9,13.11111111111111
+Over 23 years old,no,yes,male,no,39,4,12.25,4,12.75
+2nd phase - general contingent,no,no,male,no,19,5,13.6,5,13.666666666666666
+Over 23 years old,no,yes,male,no,38,2,10.5,3,11.333333333333334
+1st phase - general contingent,no,yes,male,no,21,6,12.565,5,12.16
+2nd phase - general contingent,yes,yes,male,no,19,6,13.166666666666666,5,13.2
+Over 23 years old,no,yes,male,no,25,6,11.166666666666666,4,11.8
+1st phase - general contingent,no,yes,male,no,19,6,12.666666666666666,6,12.142857142857142
+Over 23 years old,no,yes,male,no,33,5,13.06,0,0.0
+1st phase - general contingent,no,yes,male,no,18,0,0.0,0,0.0
+2nd phase - general contingent,yes,no,male,no,19,4,12.5,5,10.5
+1st phase - general contingent,no,yes,male,no,19,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,male,no,18,7,13.154285714285717,7,13.154285714285717
+1st phase - general contingent,no,yes,male,no,19,2,11.5,5,11.4
+Technological specialization diploma holders,no,yes,male,no,22,3,13.333333333333334,3,12.75
+2nd phase - general contingent,no,yes,male,no,18,5,11.8,3,12.0
+Change of course,no,yes,male,no,22,0,0.0,0,0.0
+1st phase - general contingent,yes,yes,male,no,19,0,0.0,0,0.0
+Technological specialization diploma holders,no,yes,male,no,19,2,12.5,3,11.6
+International student (bachelor),yes,yes,male,no,24,7,13.142857142857142,6,11.833333333333334
+1st phase - general contingent,no,no,male,yes,18,5,15.0,5,14.2
+1st phase - general contingent,no,yes,female,no,20,1,10.0,1,13.0
+1st phase - general contingent,no,yes,female,yes,18,6,12.166666666666666,5,11.2
+Technological specialization diploma holders,yes,yes,female,no,21,3,12.0,2,12.5
+Over 23 years old,yes,no,female,no,33,7,12.857142857142858,6,12.666666666666666
+Over 23 years old,no,yes,female,no,26,3,11.75,4,12.8
+Change of course,no,yes,female,no,21,5,11.833333333333334,4,13.25
+Technological specialization diploma holders,no,yes,female,no,20,6,12.555555555555555,5,11.8
+Technological specialization diploma holders,no,yes,female,no,20,2,14.5,4,11.25
+Over 23 years old,no,yes,male,no,43,6,12.875,5,12.142857142857142
+Over 23 years old,no,yes,male,no,26,5,12.0,5,10.2
+Change of course,no,yes,male,no,33,1,13.0,3,14.0
+2nd phase - general contingent,no,yes,male,no,19,5,10.8,2,10.5
+2nd phase - general contingent,no,yes,male,no,18,6,12.833333333333334,5,11.4
+1st phase - general contingent,yes,yes,male,yes,21,5,12.6,3,12.833333333333334
+1st phase - general contingent,no,yes,male,no,20,2,14.333333333333334,2,12.5
+Technological specialization diploma holders,no,yes,male,no,19,1,11.0,0,0.0
+Over 23 years old,no,yes,male,yes,24,5,11.833333333333334,4,14.0
+1st phase - general contingent,no,yes,male,no,21,5,11.333333333333334,2,11.5
+Over 23 years old,no,yes,male,yes,28,3,14.333333333333334,5,12.428571428571429
+Change of institution/course,no,yes,female,no,28,6,14.428571428571429,4,15.6
+Technological specialization diploma holders,no,yes,female,no,20,5,11.8,4,12.0
+1st phase - general contingent,no,yes,female,no,23,5,13.6,5,11.6
+Technological specialization diploma holders,no,yes,female,no,23,4,13.4,2,13.5
+Change of course,no,yes,female,no,25,3,13.0,3,11.666666666666666
+1st phase - general contingent,no,yes,female,yes,19,5,13.34,6,12.385714285714286
+Technological specialization diploma holders,no,yes,male,yes,20,3,12.0,3,11.666666666666666
+Technological specialization diploma holders,no,yes,male,no,19,5,11.5,6,11.333333333333334
+Change of course,no,yes,female,yes,18,5,12.86,5,12.86
+1st phase - general contingent,no,yes,female,no,18,7,12.59125,7,12.820000000000002
+Technological specialization diploma holders,no,yes,male,no,22,5,13.0,2,11.5
+1st phase - general contingent,no,yes,male,no,18,0,0.0,1,15.0
+2nd phase - general contingent,no,yes,male,no,19,5,13.2,5,13.25
+Change of course,no,yes,male,no,34,7,11.428571428571429,7,11.857142857142858
+1st phase - general contingent,no,yes,male,yes,19,6,11.166666666666666,3,11.666666666666666
+1st phase - general contingent,no,yes,male,no,20,4,11.75,3,11.333333333333334
+1st phase - general contingent,no,yes,female,yes,20,6,14.5,5,15.0
+1st phase - general contingent,no,yes,female,yes,19,4,10.4,4,10.75
+3rd phase - general contingent,yes,yes,female,no,21,7,13.0,6,12.5
+1st phase - general contingent,no,yes,female,no,18,6,14.166666666666666,6,13.428571428571429
+1st phase - general contingent,no,yes,female,no,21,4,13.25,5,13.82
+2nd phase - general contingent,no,yes,male,no,22,1,11.0,0,0.0
+Holders of other higher courses,no,yes,female,no,33,5,12.6,5,11.25
+2nd phase - general contingent,no,yes,female,yes,20,4,11.5,3,11.0
+Over 23 years old,no,yes,female,no,35,4,14.2,4,11.857142857142858
+1st phase - general contingent,no,yes,female,no,22,4,12.5,3,13.666666666666666
+2nd phase - general contingent,no,yes,female,no,20,6,11.666666666666666,5,11.6
+1st phase - general contingent,no,yes,female,no,20,3,13.0,3,13.0
+1st phase - general contingent,yes,yes,male,no,21,11,11.545454545454543,9,11.7
+Change of course,no,yes,male,no,23,1,10.0,0,0.0
+Over 23 years old,no,yes,female,no,24,5,11.8,4,11.25
+1st phase - general contingent,yes,yes,female,no,19,1,10.0,2,10.0
+1st phase - general contingent,no,yes,female,no,19,4,11.0,4,12.5
+1st phase - general contingent,no,yes,female,no,22,4,10.0,2,13.5
+Over 23 years old,no,yes,female,no,36,3,11.0,4,13.375
+1st phase - general contingent,no,yes,female,yes,20,0,0.0,0,0.0
+Over 23 years old,no,yes,female,no,40,5,13.0,5,12.6
+1st phase - special contingent (Azores Island),no,yes,female,no,19,3,10.8,3,10.5
+International student (bachelor),no,yes,female,no,20,0,0.0,2,11.666666666666666
+1st phase - general contingent,no,yes,female,yes,38,5,11.0,5,11.4
+1st phase - general contingent,no,yes,male,yes,19,12,13.333333333333334,10,12.818181818181818
+2nd phase - general contingent,no,yes,female,yes,21,1,10.0,5,11.4
+2nd phase - general contingent,no,yes,female,no,18,7,12.285714285714286,7,12.285714285714286
+Change of course,no,yes,female,no,19,5,12.4,6,12.75
+Transfer,no,yes,female,no,22,6,12.571428571428571,4,13.666666666666666
+2nd phase - general contingent,yes,yes,female,no,22,12,11.833333333333334,11,11.25
+Change of course,no,yes,female,no,20,6,12.166666666666666,5,14.0
+Over 23 years old,no,yes,female,no,31,6,13.166666666666666,6,13.0
+1st phase - general contingent,no,yes,female,yes,18,6,13.571428571428571,5,12.8
+1st phase - general contingent,yes,yes,female,no,21,2,11.5,4,11.0
+2nd phase - general contingent,no,yes,female,no,19,4,11.25,4,12.0
+Over 23 years old,no,yes,female,yes,25,7,13.29,7,13.29
+Change of course,no,yes,female,no,33,8,10.375,9,10.444444444444445
+Change of course,no,yes,female,no,20,7,12.333333333333334,8,12.625
+1st phase - general contingent,no,yes,female,no,19,5,11.2,4,11.75
+1st phase - general contingent,no,yes,female,no,20,6,11.833333333333334,3,13.333333333333334
+1st phase - general contingent,no,no,female,no,18,6,14.833333333333334,6,12.5
+1st phase - general contingent,no,yes,female,yes,19,2,13.5,5,11.4
+Change of course,no,yes,female,yes,24,7,11.971428571428572,7,11.971428571428572
+1st phase - general contingent,no,yes,female,no,19,3,12.0,4,13.5
+Technological specialization diploma holders,no,yes,female,no,21,8,12.25,8,12.2
+1st phase - general contingent,no,yes,female,no,18,5,12.2,5,11.6
+Over 23 years old,no,yes,female,no,24,5,12.4,7,12.15
+Change of course,no,yes,female,no,22,6,10.744444444444444,8,11.8375
+Over 23 years old,no,no,female,yes,44,4,12.75,2,10.0
+1st phase - general contingent,no,yes,female,no,20,2,10.0,2,11.0
+1st phase - general contingent,yes,yes,female,no,19,0,0.0,0,0.0
+1st phase - general contingent,no,yes,female,yes,18,7,13.242857142857144,7,13.242857142857144
+2nd phase - general contingent,no,no,female,no,18,5,12.6,5,11.8
+3rd phase - general contingent,no,yes,female,yes,21,4,12.25,4,11.8
+3rd phase - general contingent,no,yes,female,no,20,4,12.75,3,11.333333333333334
+1st phase - general contingent,no,yes,female,yes,18,0,0.0,4,11.0
+Change of course,no,yes,female,no,18,1,14.0,1,14.0
+Over 23 years old,yes,yes,female,no,27,6,12.125,5,12.0
+2nd phase - general contingent,yes,yes,female,no,18,4,13.5,3,10.666666666666666
+1st phase - general contingent,no,yes,female,no,20,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,19,3,14.0,4,11.75
+Technological specialization diploma holders,no,yes,female,no,20,6,12.666666666666666,4,11.5
+2nd phase - general contingent,no,yes,female,no,22,4,12.25,5,11.6
+1st phase - special contingent (Azores Island),no,yes,female,no,22,3,15.0,4,10.25
+2nd phase - general contingent,no,yes,female,no,20,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,female,no,18,6,13.5,6,13.333333333333334
+Over 23 years old,no,yes,female,no,45,5,13.6,5,13.0
+Over 23 years old,yes,yes,female,no,25,4,11.25,4,12.0
+1st phase - general contingent,no,yes,male,no,20,3,10.5,4,11.25
+1st phase - general contingent,no,yes,male,no,22,4,11.25,3,11.0
+1st phase - general contingent,no,yes,male,no,20,6,13.016666666666666,6,13.016666666666666
+1st phase - general contingent,no,yes,female,no,18,6,11.714285714285714,6,10.375
+2nd phase - general contingent,no,yes,female,no,21,3,12.666666666666666,4,12.75
+Technological specialization diploma holders,no,yes,male,no,21,0,0.0,0,0.0
+2nd phase - general contingent,no,yes,male,no,18,6,13.0,1,10.0
+2nd phase - general contingent,no,yes,male,no,18,3,14.0,3,12.666666666666666
+1st phase - general contingent,no,yes,male,no,25,6,13.166666666666666,5,12.6
+2nd phase - general contingent,no,yes,male,no,18,4,13.0,3,12.333333333333334
+1st phase - general contingent,no,yes,male,no,21,3,11.25,0,0.0
+Over 23 years old,no,yes,male,yes,24,6,10.857142857142858,7,11.857142857142858
+1st phase - general contingent,no,yes,male,no,22,4,11.75,3,11.0
+Over 23 years old,no,yes,male,no,28,8,11.625,6,11.0
+1st phase - general contingent,no,yes,male,no,18,0,0.0,1,10.0
+International student (bachelor),yes,yes,male,no,21,3,12.333333333333334,4,11.25
+Over 23 years old,no,yes,female,no,28,4,11.5,4,12.0
+1st phase - general contingent,no,yes,female,no,21,3,10.666666666666666,2,12.5
+1st phase - general contingent,no,yes,female,no,20,1,17.0,1,17.0
+1st phase - general contingent,no,yes,female,yes,18,3,12.666666666666666,4,12.5
+2nd phase - general contingent,no,yes,female,no,18,5,14.06,6,12.571428571428571
+Over 23 years old,no,yes,female,no,30,3,10.333333333333334,4,12.8
+2nd phase - general contingent,no,yes,female,no,18,4,11.5,4,10.75
+1st phase - general contingent,no,yes,male,no,18,6,11.833333333333334,6,11.833333333333334
+1st phase - general contingent,no,yes,female,no,19,2,13.0,6,10.833333333333334
+1st phase - general contingent,no,yes,female,no,20,0,0.0,0,0.0
+Holders of other higher courses,no,yes,female,no,32,7,13.761111111111113,7,12.06375
+1st phase - general contingent,no,yes,female,no,18,4,11.25,5,11.0
+1st phase - special contingent (Azores Island),no,yes,female,no,21,5,12.6,3,11.666666666666666
+3rd phase - general contingent,no,yes,male,no,18,5,12.6,6,13.0
+1st phase - general contingent,no,yes,male,no,20,4,12.0,2,11.333333333333334
+Change of course,no,yes,male,yes,19,4,13.0,5,12.2
+Change of course,no,yes,male,no,25,5,11.6,2,13.0
