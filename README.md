@@ -14,24 +14,50 @@ Proyek ini akan fokus pada analisis data mahasiswa untuk mengidentifikasi faktor
 Sumber data: [Lihat Dataset 🗿](https://raw.githubusercontent.com/labibaf/Sudent_Performance_Analysis/main/dataset/data.csv)
 
 Setup environment:
+- Buat Virtual environment
+```
+python -m venv env
+```
+- Jalankan virtual environment
+```
+env\Scripts\activate
+```
 - Install library yang dipakai
 ```
 pip install -r requirements.txt
 ```
-- Buka app.py untuk melakukan prediksi
-```
-streamlit run app.py
-```
 
 ## Business Dashboard
-Business dashboard telah dibuat untuk memonitor faktor-faktor yang mempengaruhi dropout mahasiswa. Dashboard dapat diakses [disini](https://public.tableau.com/app/profile/labib.fadhali/viz/JayaJayaInstitiutePerformanceDashboard/Dashboard1?publish=yes)
+Dashboard Jaya Jaya Institute memberikan gambaran tentang status mahasiswa, termasuk jumlah dropout, terdaftar, dan lulus. Ini mencakup analisis faktor seperti penerima beasiswa, pembayaran biaya kuliah, status peminjam, dan pelajaran yang diambil. Visualisasi juga menampilkan data berdasarkan jenis kelamin dan status pernikahan, membantu institusi mengidentifikasi dan menangani faktor-faktor yang berkontribusi terhadap tingkat dropout yang tinggi. 
 
-![MyDashboard](dashboard.png)
+Dashboard dapat diakses [disini](https://public.tableau.com/app/profile/labib.fadhali/viz/JayaJayaInstitiutePerformanceDashboard/Dashboard1?publish=yes)
+
+![MyDashboard](labibaf-Dashboard.png)
 
 ## Menjalankan Sistem Machine Learning
-Untuk menjalanka sistem machine learning, buka di [sini](https://studentperformance12.streamlit.app/)
+Untuk menjalankan sistem machine learning prediksi dropout mahasiswa ada 2 cara, bisa dilakukan secara online ataupun lokal. Hal yang perlu disiapkan adalah data berikut:
+![ml](img/ml.png)
+Data tersebut bisa diinput secara manual atau bisa menggunakan file csv jika ingin melakukan prediksi lebih dari 1 data.
 
-![streamlit](st.png)
+**Menjalankan Prototype Secara Lokal**
+ 1. Buka terminal dan masuk ke direktori STUDENT_PERFORMANCE_ANALYSIS
+ 2. Aktifkan virtual environmet dengan perintah :
+    ```
+    env\Scripts\activate
+    ```
+3. Kemudian jalankan app.py
+    ```
+    streamlit run app.py
+    ```
+****
+**Menjalankan Prototype Secara Online**
+
+Untuk menjalankan prototype secara online, link bisa di akses di [sini](https://studentperformance12.streamlit.app/)
+```
+https://studentperformance12.streamlit.app/
+```
+
+![streamlit](img/st.png)
 
 ## Conclusion
 Berdasarkan analisis yang telah dilakukan, kesimpulan yang dapat diambil adalah bahwa faktor-faktor seperti pembayaran uang sekolah, jumlah unit kurikuler yang disetujui, prestasi akademik, dan status penerima beasiswa memiliki pengaruh signifikan terhadap status mahasiswa, terutama dalam konteks kemungkinan drop out.
